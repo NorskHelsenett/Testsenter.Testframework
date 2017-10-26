@@ -1,0 +1,3 @@
+[submodule "Testsenter.Common"]
+	path = Testsenter.Common
+	url = https://github.com/ehelse/Testsenter.Common
